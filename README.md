@@ -1,2 +1,1 @@
-# xiaowupkg
-python小吴工具包，可通过pip下载
+这是wzh发布的首个pip工具包，里面有很多python实用的API函数，欢迎大家使用评价
